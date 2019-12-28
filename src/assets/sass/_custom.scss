@@ -1,0 +1,16 @@
+$primary: #0288D1;
+$light: #FAFAFA;
+$secondary: #EEEEEE;
+
+
+$theme-colors: (
+  "primary": $primary,
+  "light": $light,
+  "secondary": $secondary
+);
+
+$container-max-widths: (
+  xl: 1320px
+) !default;
+
+$body-bg: $secondary;

@@ -1,0 +1,28 @@
+.solid-button {
+    width: 100%;
+    border-radius: 30px;
+    padding: 10px;
+    background: $primary;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.outline-button {
+    border-radius: 30px;
+    border: solid 2px $primary;
+    font-size: 20px;
+    color: $primary;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+
+.outline-button:hover {
+    background: $primary;
+    color: white;
+}
+
+  
