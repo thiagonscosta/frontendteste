@@ -1,4 +1,4 @@
-# teste4
+# teste-front-end
 
 ## Project setup
 ```
@@ -51,3 +51,6 @@ See [@fortawesome/fontawesome-svg-core](https://www.npmjs.com/package/@fortaweso
 
 ### vue-fontawesome
 See [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)
+
+### vue-meta
+See [vue-meta](https://github.com/nuxt/vue-meta)
